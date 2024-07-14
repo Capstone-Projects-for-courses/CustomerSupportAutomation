@@ -65,7 +65,7 @@ This project uses a fine-tuned GPT-2 model to automate customer support interact
 
 ## Video
 
-[Link to Demo Video](./test.mp4)
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
 ## License
 
