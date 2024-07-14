@@ -65,7 +65,7 @@ This project uses a fine-tuned GPT-2 model to automate customer support interact
 
 ## Video
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+[![Watch the video](https://github.com/Capstone-Projects-for-courses/CustomerSupportAutomation/blob/main/test.png)](https://github.com/Capstone-Projects-for-courses/CustomerSupportAutomation/blob/main/test.mp4)
 
 ## License
 
